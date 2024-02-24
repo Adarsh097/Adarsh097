@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@adarshgupta_51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adarshgupta_51" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/adarsh-gupta-992bba251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adarsh-gupta-992bba251" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh-gupta-992bba251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adarsh-gupta-992bba251" height="30" width="40" /></a>
 <a href="https://instagram.com/adarsh.gupta51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh.gupta51" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsh_gupta_0601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh_gupta_0601" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adarshgusqb4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshgusqb4" height="30" width="40" /></a>
