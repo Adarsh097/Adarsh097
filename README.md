@@ -1,5 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="banner"/>
-<h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
+<h1 align="center">
+  <a href="#" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Gupta" alt="Typing Animation" />
+  </a>
+</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder" height="400px" width="400px" align="right"/>
 
