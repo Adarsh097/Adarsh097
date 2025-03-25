@@ -2,15 +2,15 @@
 
 <h1 align="center">
   <a href="#" >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Gupta" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Gupta" alt="Typing Animation" />
   </a>
 </h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder" height="400px" width="400px" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh097&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh097" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh097&label=Profile%20views&color=3498DB&style=flat" alt="Adarsh097" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adarshgupta_51" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgupta_51?logo=twitter&style=for-the-badge" alt="adarshgupta_51" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adarshgupta_51" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgupta_51?logo=twitter&style=for-the-badge&color=3498DB" alt="adarshgupta_51" /></a> </p>
 
 ### 🚀 About Me:
 - 🌱 I’m currently mastering **Next.js** and exploring **System Design & Cloud Technologies**  
@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -65,6 +66,8 @@
 <td>Tools</td>
 <td>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
@@ -73,6 +76,6 @@
 </table>
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=blueberry)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=blueberry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=blueberry)
