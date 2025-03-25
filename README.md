@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/NeonDB-%23009639.svg?style=for-the-badge&logo=neon&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </td>
 </tr>
 <tr>
