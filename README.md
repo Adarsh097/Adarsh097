@@ -68,3 +68,5 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=radical)
