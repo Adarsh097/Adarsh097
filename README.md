@@ -77,6 +77,11 @@
 </table>
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=blueberry)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=blueberry)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=blueberry)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=blueberry" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=blueberry" alt="Top Languages" />
+</p>
+
