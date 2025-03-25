@@ -25,6 +25,7 @@
 <a href="https://instagram.com/adarsh.gupta51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh.gupta51" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsh_gupta_0601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh_gupta_0601" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adarshgusqb4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshgusqb4" height="30" width="40" /></a>
+<a href="mailto:adarshgupta0601@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="adarshgupta0601@gmail.com" height="30" width="40" /></a>
 </p>
 
 ## 🛠 My TechStack:
