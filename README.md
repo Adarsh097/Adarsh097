@@ -79,8 +79,9 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=blueberry" alt="Top Languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=blueberry" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=blueberry" alt="Top Languages" />
+
 </p>
 
