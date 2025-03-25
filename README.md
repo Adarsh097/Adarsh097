@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://twitter.com/adarshgupta_51" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgupta_51?logo=twitter&style=for-the-badge" alt="adarshgupta_51" /></a> </p>
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **MERN STACK**
-- 💬 Ask me about **MERN and DSA**
-- 📫 How to reach me: **adarshgupta0601@gmail.com**
-- ⚡ Fun fact: **I love building scalable web applications**
+- 🌱 I’m currently mastering **Next.js** and exploring **System Design & Cloud Technologies**  
+- 🏆 **LeetCode Knight**: **1911** rating, solved **1000+** problems! Love cracking **DSA** challenges.  
+- 💡 **Passionate about building scalable web applications** with **clean & efficient code**    
+- 🎨 I enjoy crafting **interactive UIs & optimizing backend performance**  
 
 ## 🌐 Connect with me:
 <p align="center">
@@ -22,7 +22,7 @@
 <a href="https://auth.geeksforgeeks.org/user/adarshgusqb4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshgusqb4" height="30" width="40" /></a>
 </p>
 
-## 🛠 Languages and Tools:
+## 🛠 My TechStack:
 <table>
 <tr>
 <td>Languages</td>
