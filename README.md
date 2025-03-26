@@ -80,8 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh097&show_icons=true&theme=blueberry" alt="GitHub Stats" width="420" height="200"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh097&theme=blueberry" alt="GitHub Streak" width="420" height="200"/>
-  <br/>
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh097&layout=compact&theme=blueberry" alt="Top Languages" width="420" height="200"/>
 </p>
