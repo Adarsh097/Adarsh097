@@ -87,7 +87,7 @@
 </p>
 
 
-[![Adarsh Gupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh097&theme=react-dark)](https://github.com/Adarsh097/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh097&theme=react-dark)](https://github.com/Adarsh097/github-readme-activity-graph)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
