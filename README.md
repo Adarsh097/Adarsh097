@@ -87,6 +87,8 @@
 
 [![Adarsh Gupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh097&theme=react-dark)](https://github.com/Adarsh097/github-readme-activity-graph)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarsh097" alt="Adarsh097" /></a> </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
