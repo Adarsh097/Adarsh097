@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Gupta" alt="Typing Animation" />
   </a>
 </h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h3 align="center">Software Engineer | Devops Enthusiast</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder" height="400px" width="400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh097&label=Profile%20views&color=3498DB&style=flat" alt="Adarsh097" /> </p>
